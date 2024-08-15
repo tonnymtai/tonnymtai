@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tonnymtai
+- 👋 Hi, I’m @TonnyMutai
 - 👀 I’m interested in ...data analysis
 - 🌱 I’m currently learning ...deep learning
 - 💞️ I’m looking to collaborate on ...
